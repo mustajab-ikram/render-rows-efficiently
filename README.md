@@ -14,7 +14,5 @@ This project is a simple React application that generates a list of users and di
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/react-user-list.git
-cd react-user-list
 npm install
 ```
